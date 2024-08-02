@@ -200,7 +200,7 @@ h4 .text{
 
 }
 @media screen and (max-width:800px) {
-iframe{
+.iframe{
   transform:translateY(0em);
   position: absolute;
   left:30%;
