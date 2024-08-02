@@ -154,7 +154,7 @@ h4 .text{
 }
 
 
-iframe{
+.iframe{
   transform: translateX(30em);
   position:relative;
   top:-19em;
