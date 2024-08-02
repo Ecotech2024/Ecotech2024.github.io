@@ -1,0 +1,16 @@
+@media screen and (max-width:600){
+    
+}
+html{
+    font-size:18px;
+    scrollbar-width: none;
+}
+.card {
+    position: relative;
+  }
+  
+
+    .footer {
+    display:none;
+    }
+ 
